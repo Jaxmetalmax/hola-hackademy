@@ -1,0 +1,2 @@
+nueva linea de texto
+esto es para ver el comando commit sin utilizar el parametro -m
